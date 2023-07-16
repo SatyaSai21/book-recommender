@@ -1,5 +1,5 @@
 flask
 numpy
 gunicorn
-pandas
+pandas==1.5.3
 streamlit
